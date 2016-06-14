@@ -13,22 +13,22 @@ theme:
   # Header and footer text
   header_text: >
      <h1>Full Stack Ruby on Rails Developer.</h1>
-  header_text_feature_image:
+  header_text_feature_image: 
   footer_text: >
    Powered by Makarand Pande 2015 Bloc Student
 
   # Icons
   rss: false
-  email_address: "mak_pande@yahoo.com"# Full email address, e.g. "sam@example.com"
+  email_address: "mak_pande@yahoo.com" # Full email address
   behance:
   bitbucket:
-  dribbble: "mak_pande"
-  facebook: "mak_pande"
+  dribbble:
+  facebook: "makarand.pande.7"
   flickr:
   github: "makpande"
   google_plus:
-  instagram: "mak_pande"
-  linkedin:  # Full URL
+  instagram:
+  linkedin:  "/in/makpande2015"
   pinterest:
   reddit:
   soundcloud:
