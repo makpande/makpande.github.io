@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "makpande.github.io/portfolio" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "makpande.github.io/portfolio" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
