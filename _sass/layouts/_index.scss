@@ -40,10 +40,11 @@
   background-size: $feature-image-size;
   border-bottom: 1px solid $border-color;
   li {
-    width: 32%;
+    width: 33%;
     margin-right:0.5%;
-    margin-left:0.5%;
+    margin-left: 5%;
     margin-bottom: 0;
+    padding: 3%;
     display: inline-block;
     p a:hover {
       @extend %link-hover;
