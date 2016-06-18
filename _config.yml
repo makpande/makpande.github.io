@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
-url: "/portfolio" # the base hostname & protocol for your site
+url: "http://example.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
