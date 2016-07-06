@@ -5,4 +5,13 @@
   width: 100%;
   color: lighten($text-color, 30%);
   font-size: 0.9em;
+
+}
+.text {
+  padding-right: 15px;
+}
+.text,
+.footer-nav li {
+
+  display: inline-block;
 }

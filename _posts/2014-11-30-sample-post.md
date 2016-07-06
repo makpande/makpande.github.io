@@ -1,8 +1,12 @@
 ---
 layout: post
-title: Sample post
+title: Alexa the Most I like
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+Amazon has been quietly building out an ecosystem of applications for its connected device, the Amazon Echo. While nowhere near as well-known or buzzed about as the two top app stores on the market today – Apple’s iTunes App Store and Google’s Play Store – the Echo app store, aka the “Skills” section in the Amazon Alexa mobile app, has now grown to over 130 applications. That’s not a bad showing for the still relatively new, voice-controlled speaker, which only began rolling out its first third-party applications in August.
+
+You may have not been aware that Amazon was even running a second app store, in addition to its better known Amazon Appstore where it offers a selection of mobile apps for Android and Amazon Fire devices. After all, the Alexa app doesn’t even refer to its list of third-party software as “apps”, rather referring to these add-ons as “skills” instead – meaning, things that expand the functionality of the Alexa-powered Echo speaker.
+
+Alexa, in case you’re unaware, is Amazon’s own version of something like Apple’s Siri or Google Now. It’s a voice-activated assistant that lets you ask questions, create tasks and shopping lists, order things from Amazon, hear the news and weather, play music, set timers and alarms, and even control a number of “smart home” devices like lights and switches.
 
 * Consectetur adipiscing elit
 * Donec a diam lectus

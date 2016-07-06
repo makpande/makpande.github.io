@@ -25,6 +25,7 @@
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
+
     p a:hover {
       @extend %link-hover;
     }
@@ -39,13 +40,15 @@
   @extend %padding-regular;
   background-size: $feature-image-size;
   border-bottom: 1px solid $border-color;
+  background-color: #1ABC9C;
   li {
-    width: 33%;
+    width: 44%;
     margin-right:0.5%;
-    margin-left: 5%;
+    margin-left: 2%;
     margin-bottom: 0;
-    padding: 3%;
+    padding: 2%;
     display: inline-block;
+    color: white;
     p a:hover {
       @extend %link-hover;
     }
