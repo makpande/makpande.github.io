@@ -164,7 +164,10 @@ hr.small {
 
 .about {
     padding: 50px 0;
-    text-align: right;
+}
+
+h4 {
+  text-align: left;
 }
 
 /* Services */
